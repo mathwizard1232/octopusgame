@@ -1,0 +1,28 @@
+Octy is a mobile game where you play as an octopus, eating everything smaller than you and growing bigger.
+
+Image Attribution:
+Octy v0 source (octopus-base.png):
+Image by <a href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6387502">Gordon Johnson</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6387502">Pixabay</a>
+https://pixabay.com/vectors/octopus-baby-animal-cute-kawaii-6387502/
+
+Ocean floor (corals.jpg):
+Image by <a href="https://pixabay.com/users/joakant-313743/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=380039">joakant</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=380039">Pixabay</a>
+https://pixabay.com/photos/corals-underwater-oasis-ocean-floor-380039/
+
+Octy v1 source (octopus-animated.png):
+Image by <a href="https://opengameart.org/users/chickenteddy">ChickenTeddy</a> from OpenGameArt.org
+https://opengameart.org/content/octopus-swim
+
+---
+
+Built with Cursor using cursor-small.
+
+Trying out PyGame. Using this as a way of learning mobile development.
+
+Run with
+
+`python main.py`
+
+currently (need to obviously build for mobile eventually)
+
+Very rough quick "hello world" so far. Planning to add a core mechanism of eating objects and growing.
